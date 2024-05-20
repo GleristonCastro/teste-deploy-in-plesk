@@ -1,1 +1,1 @@
-Apenas para teste em painel do cpanel e plesk
+Apenas para teste em painel do cpanel e plesk2
